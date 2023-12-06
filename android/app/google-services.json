@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380632562271",
+    "project_id": "akashfirechatapp",
+    "storage_bucket": "akashfirechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380632562271:android:91a9a39194e153d2c2b9ea",
+        "android_client_info": {
+          "package_name": "com.example.untitled60"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLFqcNfU4elYO-CzjJfj9oszMRMBnUGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
